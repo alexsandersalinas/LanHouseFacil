@@ -1,0 +1,16 @@
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\bin\Debug\LanHouseFacil_Client.exe.config
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\bin\Debug\LanHouseFacil_Client.exe
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\bin\Debug\LanHouseFacil_Client.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\bin\Debug\LanHouseFacil_ENT.dll
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\bin\Debug\LanHouseFacil_Util.dll
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\bin\Debug\LanHouseFacil_Util.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\bin\Debug\LanHouseFacil_ENT.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\obj\x86\Debug\LanHouseFacil_Client.csprojAssemblyReference.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\obj\x86\Debug\LanHouseFacil_UIClient.frmAlerta.resources
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\obj\x86\Debug\LanHouseFacil_UIClient.frmCliente.resources
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\obj\x86\Debug\LanHouseFacil_Client.Properties.Resources.resources
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\obj\x86\Debug\LanHouseFacil_Client.csproj.GenerateResource.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\obj\x86\Debug\LanHouseFacil_Client.csproj.CoreCompileInputs.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\obj\x86\Debug\LanHouseFacil_Client.csproj.CopyComplete
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\obj\x86\Debug\LanHouseFacil_Client.exe
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Client\obj\x86\Debug\LanHouseFacil_Client.pdb

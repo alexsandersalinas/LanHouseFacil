@@ -1,0 +1,13 @@
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\bin\Debug\LanHouseFacil_Server.exe.config
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\bin\Debug\LanHouseFacil_Server.exe
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\bin\Debug\LanHouseFacil_Server.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\bin\Debug\LanHouseFacil_Util.dll
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\bin\Debug\LanHouseFacil_Util.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\obj\x86\Debug\LanHouseFacil_Server.csprojAssemblyReference.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\obj\x86\Debug\LanHouseFacil_UISetup.fUpdate.resources
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\obj\x86\Debug\LanHouseFacil_Server.Properties.Resources.resources
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\obj\x86\Debug\LanHouseFacil_Server.csproj.GenerateResource.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\obj\x86\Debug\LanHouseFacil_Server.csproj.CoreCompileInputs.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\obj\x86\Debug\LanHouseFacil_Server.csproj.CopyComplete
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\obj\x86\Debug\LanHouseFacil_Server.exe
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Server\obj\x86\Debug\LanHouseFacil_Server.pdb

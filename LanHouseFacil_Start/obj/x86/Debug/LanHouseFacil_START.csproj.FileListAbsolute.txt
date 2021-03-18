@@ -1,0 +1,12 @@
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\bin\Debug\LanHouseFacil_Start.exe
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\bin\Debug\LanHouseFacil_Start.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\bin\Debug\LanHouseFacil_Util.dll
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\bin\Debug\LanHouseFacil_Util.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\obj\x86\Debug\LanHouseFacil_Start.csprojAssemblyReference.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\obj\x86\Debug\LanHouseFacil_START.frm.resources
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\obj\x86\Debug\LanHouseFacil_Start.Properties.Resources.resources
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\obj\x86\Debug\LanHouseFacil_Start.csproj.GenerateResource.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\obj\x86\Debug\LanHouseFacil_Start.csproj.CoreCompileInputs.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\obj\x86\Debug\LanHouseFacil_Start.csproj.CopyComplete
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\obj\x86\Debug\LanHouseFacil_Start.exe
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_Start\obj\x86\Debug\LanHouseFacil_Start.pdb

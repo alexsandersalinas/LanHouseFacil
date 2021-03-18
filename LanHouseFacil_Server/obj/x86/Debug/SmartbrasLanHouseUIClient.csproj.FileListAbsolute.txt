@@ -1,0 +1,11 @@
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\bin\Debug\SmartbrasLanHouseUIClient.exe
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\bin\Debug\SmartbrasLanHouseUIClient.pdb
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\bin\Debug\SmartbrasLanHouseBLL.dll
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\bin\Debug\SmartbrasLanHouseBLL.pdb
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\obj\x86\Debug\SmartbrasLanHouseUIClient.fUpdate.resources
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\obj\x86\Debug\SmartbrasLanHouseUIClient.Properties.Resources.resources
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\obj\x86\Debug\SmartbrasLanHouseUIClient.exe
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbraLanHouseUISetup\obj\x86\Debug\SmartbrasLanHouseUIClient.pdb

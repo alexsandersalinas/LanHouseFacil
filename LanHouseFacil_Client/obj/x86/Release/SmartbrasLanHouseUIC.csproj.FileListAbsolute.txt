@@ -1,0 +1,15 @@
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\bin\Release\SmartbrasLanHouseUIC.exe.config
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\bin\Release\SmartbrasLanHouseUIC.exe
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\bin\Release\SmartbrasLanHouseUIC.pdb
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\bin\Release\SmartbrasLanHouseBLL.dll
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\bin\Release\SmartbrasLanHouseENT.dll
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\bin\Release\SmartbrasLanHouseBLL.pdb
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\bin\Release\SmartbrasLanHouseENT.pdb
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\obj\x86\Release\ResolveAssemblyReference.cache
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\obj\x86\Release\SmartbrasLanHouseUIC.frmAlerta.resources
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\obj\x86\Release\SmartbrasLanHouseUIC.frmCliente.resources
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\obj\x86\Release\SmartbrasLanHouseUIC.Properties.Resources.resources
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\obj\x86\Release\GenerateResource.read.1.tlog
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\obj\x86\Release\GenerateResource.write.1.tlog
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\obj\x86\Release\SmartbrasLanHouseUIC.exe
+G:\LanHouse\LanHouse\LanHouseCentroDeEstudosSaoCamilo\SmartbrasLanHouseUIC\obj\x86\Release\SmartbrasLanHouseUIC.pdb

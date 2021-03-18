@@ -1,0 +1,12 @@
+C:\programas\LanhouseFacil\LanHouseFacil\SmartbrasLanHouseENT\bin\Debug\LanHouseFacil_ENT.dll
+C:\programas\LanhouseFacil\LanHouseFacil\SmartbrasLanHouseENT\bin\Debug\LanHouseFacil_ENT.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\SmartbrasLanHouseENT\obj\Debug\LanHouseFacil_ENT.csprojAssemblyReference.cache
+C:\programas\LanhouseFacil\LanHouseFacil\SmartbrasLanHouseENT\obj\Debug\LanHouseFacil_ENT.csproj.CoreCompileInputs.cache
+C:\programas\LanhouseFacil\LanHouseFacil\SmartbrasLanHouseENT\obj\Debug\LanHouseFacil_ENT.dll
+C:\programas\LanhouseFacil\LanHouseFacil\SmartbrasLanHouseENT\obj\Debug\LanHouseFacil_ENT.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_ENT\bin\Debug\LanHouseFacil_ENT.dll
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_ENT\bin\Debug\LanHouseFacil_ENT.pdb
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_ENT\obj\Debug\LanHouseFacil_ENT.csprojAssemblyReference.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_ENT\obj\Debug\LanHouseFacil_ENT.csproj.CoreCompileInputs.cache
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_ENT\obj\Debug\LanHouseFacil_ENT.dll
+C:\programas\LanhouseFacil\LanHouseFacil\LanHouseFacil_ENT\obj\Debug\LanHouseFacil_ENT.pdb
